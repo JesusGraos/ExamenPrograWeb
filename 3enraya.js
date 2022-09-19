@@ -3,6 +3,7 @@ let tarjetasMostradas = 0;
 let arregloSelecciones = []
 let arregloMostradas = []
 
+
 function createBoard(numRows,numCols){ 
     randomEmoji()
     let rows = []
